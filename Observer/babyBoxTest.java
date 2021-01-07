@@ -1,4 +1,4 @@
-import java.time.LocalTime;
+mport java.time.LocalTime;
 
 public class babyBoxTest {
 
@@ -9,7 +9,5 @@ public class babyBoxTest {
         messageNotification babyCondition = new messageNotification(box);
 
         box.setMeasurements(LocalTime.now(), "Cry");
-        box.setMeasurements(LocalTime.now(), "Laugh");
-
     }
 }
