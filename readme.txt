@@ -1,6 +1,6 @@
 Kelompok 15 :
 Titi Rengga Sari (1808107010041)
-Rizki Nabila Silminah (1808107010054)
+Rizki Nabilah Silmina (1808107010054)
 
 Deskripsi Smart Baby Box :
 Pada jaman canggih sekarang ini, banyak orang tua yang kesusahan dalam menangani bayi mereka ketika sedang melakukan kegiatan rumah tangga, seperti menyapu, memasak, dan lain sebagainya. 
